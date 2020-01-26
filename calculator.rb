@@ -1,5 +1,5 @@
 first_number = 
-second_number != 0 
+second_number =
 
 def sum(first_number, second_number)
   puts first_number + second_number
